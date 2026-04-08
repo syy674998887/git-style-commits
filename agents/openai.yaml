@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Style Commits"
+  short_description: "Split, stage, and title commits your way"
+  default_prompt: "Use $git-style-commits to inspect my working tree, propose commit boundaries, and commit with my preferred message style."
